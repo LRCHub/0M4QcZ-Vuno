@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・エイント・ガッタ・テル・ユー",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T11:16:31.883700Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Ain't Gotta Tell You",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_I_Ain't_Gotta_Tell_You_Ne-Yo.txt"
+    }
+  ]
+}
